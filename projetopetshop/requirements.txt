@@ -2,4 +2,4 @@ streamlit
 pandas
 plotly
 prophet==1.1.5
-pystan~=2.19.1.1
+cmdstanpy==1.1.0
